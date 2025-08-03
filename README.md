@@ -39,8 +39,8 @@ Observe the TX vs RX signal plot.
 
 BER is shown in both the command window and the plot title.
 
-**Output**
 
+##**Output**
 
 Blue Line → Transmitted NRZ signal
 
@@ -48,7 +48,7 @@ Orange Line → Received signal after attenuation, dispersion, and noise
 
 BER (Bit Error Rate) → Printed as output
 
-**Educational Value**
+##**Educational Value**
 
 This project helps in:
 
@@ -60,13 +60,14 @@ Learning MATLAB basics
 
 Preparing for embedded or communication-based mini-projects
 
-**Requirements**
+##**Requirements**
 
 MATLAB (no toolboxes needed)
 
 Basic understanding of digital signals and communication concepts
 
-**Author**
+##**Author**
+
 Vaishnavi Kamat
 
 B.E. Electronics & Telecommunication Engineering
