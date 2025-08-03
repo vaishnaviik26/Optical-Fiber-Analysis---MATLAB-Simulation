@@ -30,12 +30,14 @@ This project simulates basic optical fiber communication using MATLAB. It covers
 - Measures the accuracy of transmission.
 
 **How to Run**
+
 Open the file fiber_simulation.m in MATLAB.
 Click Run or press F5.
 Observe the TX vs RX signal plot.
 BER is shown in both the command window and the plot title.
 
 **Output**
+
 Blue Line → Transmitted NRZ signal
 Orange Line → Received signal after attenuation, dispersion, and noise
 BER (Bit Error Rate) → Printed as output
